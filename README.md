@@ -6,17 +6,31 @@ Fork and clone this repo. From your fork, provide answers to questions below. Wh
 
 1-Who is your favorite super hero? 
 
-2-What is one interesting thing about you? 
+cristiano ronaldo 
+
+2-What is one interesting thing about you?
+
+i am so curious  
 
 3-What animal is your spirit animal? 
 
-4-What is your favorite food? 
+lion 
+
+4-What is your favorite food?
+
+spaghetti 
 
 5-What is your favorite beverage? 
 
-6-What is your favorite national park or landmark? 
+orange juice
 
-7-What is your favorite movie? 
+6-What is your favorite national park or landmark?
+
+disney land 
+
+7-What is your favorite movie?
+
+casa del papel 
 
 Advanced Content:
 From your fork, make a new branch. On the new branch, write a new question and answer under the questions already provided. Commit the changes and merge the new branch with the master branch.
